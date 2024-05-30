@@ -1,6 +1,6 @@
 # The Dinn-o-matic 
 
-A Python project that web-scrapes and parses through a website with over 10,000 recipes using BeautifulSoup. Randomly generates a recipe for the user given their desired time and ingredients they currently have and iterates over each recipe until their desired recipe is chosen.
+A Python project that web-scrapes and parses through a website with over 10,000 recipes using BeautifulSoup and requests library. Randomly generates a recipe for the user given their desired time and ingredients they currently have and iterates over each recipe until their desired recipe is chosen.
 
 # Features
 - User input of time constraint
