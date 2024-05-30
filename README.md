@@ -8,3 +8,4 @@ A Python project that web-scrapes and parses through a website with over 10,000 
 - Title of Recipe
 - Time to Cook
 - List of Ingredients
+- URL of Recipe
